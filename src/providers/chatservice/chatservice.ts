@@ -1,5 +1,5 @@
 
-import { London } from '../../interface/London';
+import { London } from '../../interface/london';
 
 import { Weather, ResultEntity, Responsedto } from './../../interface/weather';
 import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
